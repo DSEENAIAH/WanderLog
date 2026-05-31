@@ -4,7 +4,7 @@ WanderLog is a clean travel bucket list app built with React and Vite. Users can
 
 ## Live Site
 
-- https://wander-log-sigma.vercel.app/auth
+- https://wander-log-sigma.vercel.app/
 
 ## Project Overview
 
